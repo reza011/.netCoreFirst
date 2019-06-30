@@ -1,0 +1,11 @@
+E:\programming\Asp.netCore\myApp\bin\Debug\netcoreapp2.2\myApp.deps.json
+E:\programming\Asp.netCore\myApp\bin\Debug\netcoreapp2.2\myApp.runtimeconfig.json
+E:\programming\Asp.netCore\myApp\bin\Debug\netcoreapp2.2\myApp.runtimeconfig.dev.json
+E:\programming\Asp.netCore\myApp\bin\Debug\netcoreapp2.2\myApp.dll
+E:\programming\Asp.netCore\myApp\bin\Debug\netcoreapp2.2\myApp.pdb
+E:\programming\Asp.netCore\myApp\obj\Debug\netcoreapp2.2\myApp.csprojAssemblyReference.cache
+E:\programming\Asp.netCore\myApp\obj\Debug\netcoreapp2.2\myApp.csproj.CoreCompileInputs.cache
+E:\programming\Asp.netCore\myApp\obj\Debug\netcoreapp2.2\myApp.AssemblyInfoInputs.cache
+E:\programming\Asp.netCore\myApp\obj\Debug\netcoreapp2.2\myApp.AssemblyInfo.cs
+E:\programming\Asp.netCore\myApp\obj\Debug\netcoreapp2.2\myApp.dll
+E:\programming\Asp.netCore\myApp\obj\Debug\netcoreapp2.2\myApp.pdb
